@@ -46,10 +46,10 @@ The objective of this project is to create and deploy a static website using Goo
   - Using Google Cloud Storage for static website hosting is a cost-effective and straightforward solution, eliminating the need for a traditional web server.
 
 2. **Scalability and Reliability**:
-   - Google Cloud's infrastructure ensures that the website can handle varying levels of traffic without manual scaling or maintenance, offering high reliability and uptime.
+ - Google Cloud's infrastructure ensures that the website can handle varying levels of traffic without manual scaling or maintenance, offering high reliability and uptime.
 
 3. **Ease of Deployment**:
-   - Deploying a static website on Google Cloud Storage involves minimal setup and configuration, making it accessible even for those with limited cloud experience.
+ - Deploying a static website on Google Cloud Storage involves minimal setup and configuration, making it accessible even for those with limited cloud experience.
 
 4. **Public Accessibility and Security**:
-   -Properly configuring the bucket permissions is crucial for making the website publicly accessible while maintaining control over content security.
+ -Properly configuring the bucket permissions is crucial for making the website publicly accessible while maintaining control over content security.
