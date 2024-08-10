@@ -52,4 +52,25 @@ The objective of this project is to create and deploy a static website using Goo
  - Deploying a static website on Google Cloud Storage involves minimal setup and configuration, making it accessible even for those with limited cloud experience.
 
 4. **Public Accessibility and Security**:
- -Properly configuring the bucket permissions is crucial for making the website publicly accessible while maintaining control over content security.
+ - Properly configuring the bucket permissions is crucial for making the website publicly accessible while maintaining control over content security.
+
+### Procedure
+
+*Step 1* : login into **Google Cloud Console**. After selecting the Project section, in **Cloud section**, we will select *bucket*.
+![Screenshot 2024-08-09 160202](https://github.com/user-attachments/assets/5bcae594-9134-453e-a953-6bd401a63f0d)
+
+*Step 2* : In this section **on filling** all require detail, then we will upload here webpage code , as option just given above 
+![Screenshot 2024-08-09 160348](https://github.com/user-attachments/assets/7659c949-3aaf-4ff2-9713-b3d546d89f92)
+![Screenshot 2024-08-10 190912](https://github.com/user-attachments/assets/70c6c8e3-2e4d-43cb-a7c2-96c97e00268d)
+
+*Step 3* : On selecting all uploaded file, in Permission setting, we will select **VIEW BY ROLES** then will go to *GRANT ACCESS* .
+![Screenshot 2024-08-10 190912](https://github.com/user-attachments/assets/d5996d26-85ae-420e-aa26-c95aaaa26c49)
+![Screenshot 2024-08-10 191102](https://github.com/user-attachments/assets/8d16ad4e-06b1-4be1-ab35-9458297202ff)
+
+*Step 4* : There we will add **Add Principals** & **Assign roles**
+![Screenshot 2024-08-10 191125](https://github.com/user-attachments/assets/5a0fd272-8bdd-4761-8d46-e072407a8994)
+
+*Step 5* : After that our webpage will get live, and on click *mainfile.html*, we can see our delployed file though link given.
+![Screenshot 2024-08-10 191203](https://github.com/user-attachments/assets/84e76fa6-bbb0-4a9f-a7bc-ea7a2e8ba0b1)
+![Screenshot 2024-08-10 191224](https://github.com/user-attachments/assets/a961da20-0cd8-4742-af6d-8cd13c2122e5)
+
